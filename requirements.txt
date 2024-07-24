@@ -1,4 +1,5 @@
 farm-haystack
+sentence-transformers
 gradio
 streamlit
 fastapi
